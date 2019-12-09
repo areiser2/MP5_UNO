@@ -46,12 +46,4 @@ public class DeckFunctions {
         }
         return deck;
     }
-
-    public static void configure(String[] figure) {
-        String[] copy = new String[figure.length];
-
-        for (int i = 0; i < figure.length; i++) {
-
-        }
-    }
 }
